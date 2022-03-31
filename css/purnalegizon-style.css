@@ -1,0 +1,42 @@
+body {
+	max-width: 600px;
+	margin: 0 auto;
+	padding: 0;
+	font-family: sans-serif;
+	font-size: 16px;
+}
+header, footer {
+	text-align: center;
+}
+h1 {
+	margin: 0;
+	text-align: center;
+	font-size: 200%;
+}
+h2, h3, h4 , p {
+	margin: 5px 1px;
+}
+h2 {
+	font-size: 170%;
+}
+h3 {
+	font-size: 150%;
+}
+h4 {
+	font-size: 130%;
+}
+a:link {
+	color: blue;
+	text-decoration: none;
+}
+a:visited {
+	color: red;
+}
+a:hover {
+	text-decoration: underline;
+}
+hr {
+	width: 50%;
+	border-top: 3px double black;
+	text-align: center;
+}
