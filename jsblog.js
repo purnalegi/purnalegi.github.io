@@ -91,14 +91,14 @@ if ( postsArray.length < 2 ) {
   nextprevHTML = '<a href="' + relativePath + '/index.html" style="display: none;">Home</a>';
 } else if ( currentIndex === 0 ) {
   prevlink = postsArray[currentIndex + 1][0];
-  nextprevHTML = '<a href="' + relativePath + '/index.html" style="display: none;">Home</a> <a href="'+ relativePath + '/' + prevlink +'" class="prevlink">Posting Sebelumnya \u00BB</a>';
+  nextprevHTML = '<a href="' + relativePath + '/index.html" style="display: none;">Home</a> <a href="'+ relativePath + '/' + prevlink +'" class="prevlink">Posting Selanjutnya \u00BB</a>';
 } else if ( currentIndex === postsArray.length - 1 ) {
   nextlink = postsArray[currentIndex - 1][0];
-  nextprevHTML = '<a href="' + relativePath + '/' + nextlink +'" class="nextlink">\u00AB Posting Selanjutnya</a> <a href="' + relativePath + '/index.html" style="display: none;">Home</a>';
+  nextprevHTML = '<a href="' + relativePath + '/' + nextlink +'" class="nextlink">\u00AB Posting Sebelumnya</a> <a href="' + relativePath + '/index.html" style="display: none;">Home</a>';
 } else if ( 0 < currentIndex && currentIndex < postsArray.length - 1 ) {
   nextlink = postsArray[currentIndex - 1][0];
   prevlink = postsArray[currentIndex + 1][0];
-  nextprevHTML = '<a href="' + relativePath + '/'+ nextlink +'" class="nextlink">\u00AB Posting Selanjutnya</a> <a href="' + relativePath + '/index.html" style="display: none;">Home</a> <a href="' + relativePath + '/'+ prevlink +'" class="prevlink">Posting Sebelumnya \u00BB</a>';
+  nextprevHTML = '<a href="' + relativePath + '/'+ nextlink +'" class="nextlink">\u00AB Posting Sebelumnya</a> <a href="' + relativePath + '/index.html" style="display: none;">Home</a> <a href="' + relativePath + '/'+ prevlink +'" class="prevlink">Posting Selanjutnya \u00BB</a>';
 }
 if (document.getElementById("nextprev")) {
   document.getElementById("nextprev").innerHTML = nextprevHTML;
