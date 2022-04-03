@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>File CSS &#8211; Purnalegizon</title>
+	<atom:link href="/tag/file-css/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sun, 03 Apr 2022 06:57:57 +0000</lastBuildDate>
+	<language>id-ID</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<item>
+		<title>Membuat File CSS Untuk Situs Di GitHub</title>
+		<link>/2022/04/03/membuat-file-css-untuk-situs-di-github/</link>
+		
+		<dc:creator><![CDATA[Dipo Dwijaya S]]></dc:creator>
+		<pubDate>Sun, 03 Apr 2022 06:57:57 +0000</pubDate>
+				<category><![CDATA[Tutorial]]></category>
+		<category><![CDATA[File CSS]]></category>
+		<category><![CDATA[Situs Di GitHub]]></category>
+		<guid isPermaLink="false">/?p=16</guid>
+
+					<description><![CDATA[Dari dasbor repository klik Add file. Klik Create new file. Sematkan nama file, contoh: css/purnalegizon-style.css. Klik Commit new file.]]></description>
+										<content:encoded><![CDATA[<p>Dari dasbor repository klik Add file.<br />
+Klik Create new file.<br />
+Sematkan nama file, contoh: css/purnalegizon-style.css.<br />
+Klik Commit new file.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
