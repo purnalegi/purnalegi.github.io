@@ -32,17 +32,7 @@
 		<guid isPermaLink="false">/?p=11</guid>
 
 					<description><![CDATA[Dari dasbor akun klik Create repository. Sematkan nama repository, contoh: purnalegi.github.io. Sematkan deskripsi repository, contoh: Repositori purnalegi.github.io. Klik kotak Add a README file. Klik Create repository. Klik Add file. Klik Create new file. Sematkan nama file, contoh: index.html. Klik Commit new file.]]></description>
-										<content:encoded><![CDATA[<p>Dari dasbor akun klik Create repository.<br />
-Sematkan nama repository, contoh: purnalegi.github.io.<br />
-Sematkan deskripsi repository, contoh: Repositori purnalegi.github.io.<br />
-Klik kotak Add a README file.<br />
-Klik Create repository.<br />
-Klik Add file.<br />
-Klik Create new file.<br />
-Sematkan nama file, contoh: index.html.<br />
-Klik Commit new file.</p>
-]]></content:encoded>
-					
+		
 		
 		
 			</item>
