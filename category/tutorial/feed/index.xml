@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tutorial &#8211; Purnalegizon</title>
+	<atom:link href="/category/tutorial/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Sun, 03 Apr 2022 06:57:57 +0000</lastBuildDate>
+	<language>id-ID</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<item>
+		<title>Membuat File CSS Untuk Situs Di GitHub</title>
+		<link>/2022/04/03/membuat-file-css-untuk-situs-di-github/</link>
+		
+		<dc:creator><![CDATA[Dipo Dwijaya S]]></dc:creator>
+		<pubDate>Sun, 03 Apr 2022 06:57:57 +0000</pubDate>
+				<category><![CDATA[Tutorial]]></category>
+		<category><![CDATA[File CSS]]></category>
+		<category><![CDATA[Situs Di GitHub]]></category>
+		<guid isPermaLink="false">/?p=16</guid>
+
+					<description><![CDATA[Dari dasbor repository klik Add file. Klik Create new file. Sematkan nama file, contoh: css/purnalegizon-style.css. Klik Commit new file.]]></description>
+										<content:encoded><![CDATA[<p>Dari dasbor repository klik Add file.<br />
+Klik Create new file.<br />
+Sematkan nama file, contoh: css/purnalegizon-style.css.<br />
+Klik Commit new file.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mengunggah Favicon Untuk Situs Di GitHub</title>
+		<link>/2022/04/03/mengunggah-favicon-untuk-situs-di-github/</link>
+		
+		<dc:creator><![CDATA[Dipo Dwijaya S]]></dc:creator>
+		<pubDate>Sun, 03 Apr 2022 06:57:11 +0000</pubDate>
+				<category><![CDATA[Tutorial]]></category>
+		<category><![CDATA[Favicon Situs]]></category>
+		<category><![CDATA[Situs Di GitHub]]></category>
+		<guid isPermaLink="false">/?p=13</guid>
+
+					<description><![CDATA[Dari dasbor repository klik Add file. Klik Create new file. Sematkan nama file, contoh: gambar/readme.md. Klik Commit new file. Klik Add file. Klik Upload files. Klik choose your files. Klik Commit changes.]]></description>
+										<content:encoded><![CDATA[<p>Dari dasbor repository klik Add file.<br />
+Klik Create new file.<br />
+Sematkan nama file, contoh: gambar/readme.md.<br />
+Klik Commit new file.<br />
+Klik Add file.<br />
+Klik Upload files.<br />
+Klik choose your files.<br />
+Klik Commit changes.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Membuat Subdomain Gratis Di GitHub</title>
+		<link>/2022/04/03/membuat-subdomain-gratis-di-github/</link>
+		
+		<dc:creator><![CDATA[Dipo Dwijaya S]]></dc:creator>
+		<pubDate>Sun, 03 Apr 2022 06:55:50 +0000</pubDate>
+				<category><![CDATA[Tutorial]]></category>
+		<category><![CDATA[Membuat Subdomain]]></category>
+		<category><![CDATA[Subdomain GitHub]]></category>
+		<category><![CDATA[Subdomain Gratis]]></category>
+		<guid isPermaLink="false">/?p=11</guid>
+
+					<description><![CDATA[Dari dasbor akun klik Create repository. Sematkan nama repository, contoh: purnalegi.github.io. Sematkan deskripsi repository, contoh: Repositori purnalegi.github.io. Klik kotak Add a README file. Klik Create repository. Klik Add file. Klik Create new file. Sematkan nama file, contoh: index.html. Klik Commit new file.]]></description>
+										<content:encoded><![CDATA[<p>Dari dasbor akun klik Create repository.<br />
+Sematkan nama repository, contoh: purnalegi.github.io.<br />
+Sematkan deskripsi repository, contoh: Repositori purnalegi.github.io.<br />
+Klik kotak Add a README file.<br />
+Klik Create repository.<br />
+Klik Add file.<br />
+Klik Create new file.<br />
+Sematkan nama file, contoh: index.html.<br />
+Klik Commit new file.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Membuat Akun Gratis Di GitHub</title>
+		<link>/2022/04/03/membuat-akun-gratis-di-github/</link>
+		
+		<dc:creator><![CDATA[Dipo Dwijaya S]]></dc:creator>
+		<pubDate>Sun, 03 Apr 2022 06:54:50 +0000</pubDate>
+				<category><![CDATA[Tutorial]]></category>
+		<category><![CDATA[Akun GitHub]]></category>
+		<category><![CDATA[Akun Gratis]]></category>
+		<category><![CDATA[Membuat Akun]]></category>
+		<guid isPermaLink="false">/?p=9</guid>
+
+					<description><![CDATA[Ke https://github.com/. Klik Sign up. Sematkan email kemudian klik Continue. Sematkan password kemudian klik Continue. Sematkan username kemudian klik Continue. Sematkan y kemudian klik Continue. Klik Start puzzle kemudian selesaikan tantangannya. Klik Create account. Sematkan launch code yang diterima via email. Pilih Just me dan Student kemudian klik Continue. Centang kotak Community kemudian klik Continue. &#8230; <a href="/2022/04/03/membuat-akun-gratis-di-github/" class="more-link">Lanjutkan membaca <span class="screen-reader-text">Membuat Akun Gratis Di GitHub</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Ke https://github.com/.<br />
+Klik Sign up.<br />
+Sematkan email kemudian klik Continue.<br />
+Sematkan password kemudian klik Continue.<br />
+Sematkan username kemudian klik Continue.<br />
+Sematkan y kemudian klik Continue.<br />
+Klik Start puzzle kemudian selesaikan tantangannya.<br />
+Klik Create account.<br />
+Sematkan launch code yang diterima via email.<br />
+Pilih Just me dan Student kemudian klik Continue.<br />
+Centang kotak Community kemudian klik Continue.<br />
+Klik Continue for free.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
